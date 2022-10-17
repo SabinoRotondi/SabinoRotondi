@@ -4,11 +4,11 @@
 
 <p><img align="right" src="https://s4.gifyu.com/images/animation_500_kxa883sd.gif" alt="Sabino" /></p>
 
-- ✍️ I’m currently learning Web Development 
 
-- 📫 How to reach me **sabinorotondidevelhope@gmail.com**
+
+
  
-- <p align="left"> Studying as FullStack Developer, <br> focusing my skills on ⬇️  </p>
+- <p align="left"> I'm a Fullstack Web Developer, <br> currently working with⬇️  </p>
  
  <br>
  
@@ -31,6 +31,8 @@
 <br>
  
  <h3 align="left">Connect with me ⬇️ </h3>
+ 
+ - 📫**sabinorotondi2000@gmail.com**
 <p align="left">
  
  <a href="https://www.linkedin.com/in/sabinorotondi/" target="blank"><img align="center"
