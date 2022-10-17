@@ -8,7 +8,7 @@
 
 
  
-- <p align="left"> I'm a Fullstack Web Developer, <br> currently working with⬇️  </p>
+<p align="left"> I'm a Fullstack Web Developer, <br> currently working with⬇️  </p>
  
  <br>
  
